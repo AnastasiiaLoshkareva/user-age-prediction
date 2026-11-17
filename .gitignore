@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Артефакты модели (создаются ноутбуком)
+artifacts/
+
+# Секреты и окружение
+.env
+
+# ОС / IDE
+.DS_Store
+.idea/
+.vscode/
